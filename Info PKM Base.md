@@ -2,6 +2,7 @@
 # Información: PKM Base v01
 ## Gestión del conocimiento personal (PKM). Entorno e instrumentos básicos orientados a la aplicación del PKM para a investigadoras/es
 
+---
 ## Presentación 
 Los procesos de formación e investigación académica han presentado varios matices en la última década. Se reconoce que su ejercicio no está desprendido de otros ámbitos laborales y de aprendizaje constante y personal. Además, día con día estamos sumergidos en un proceso de "infoxicación" que reduce la posibilidad de aprovechamiento, análisis y producción de ideas y conocimiento.
 
