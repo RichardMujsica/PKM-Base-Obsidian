@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "f2a0b4494f14ed8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0821e8eca3522b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Info PKM Base.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "559923824f94280e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e10a8d4e7c5e382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f254f1b7a3076b79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cfcdb70a78c4c6a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a984d61e13c27b79",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "43a1a28c721748f7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262
+  },
+  "right": {
+    "id": "604964c7bca21ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "439d60273c233d64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c828397a55b856b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Info PKM Base.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "976cea545a74625c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a98d2c74c886ab22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Info PKM Base.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d0821e8eca3522b3",
+  "lastOpenFiles": [
+    "Info PKM Base.md",
+    "Lista Mapas de Contenido.md",
+    "Lista notas Zettel.md",
+    "Lista Referencias.md",
+    "03 MOC/Ejemplo de MOC.md",
+    "02 REFERENCIAS/Ejemplo de Referencia 1.md",
+    "01 ZETTEL/Ejemplo Idea 1.md",
+    "05 Archivo/Plantillas/Plantilla REFERENCIA.md",
+    "05 Archivo/Plantillas/Plantilla MOC.md",
+    "05 Archivo/Plantillas/Plantilla NOTA.md"
+  ]
+}
