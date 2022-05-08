@@ -3,10 +3,10 @@ Autor - Año - Título/Tema
 #referencia
 
 ---
-### Notas Bibliográficas 
+## Nota Bibliográfica
 
 ### Datos de Referencia (Zotero)
-
+%%Añadir la referencia bibliográfica o referencia de Zotero%%
 
 ## Análisis del texto
 

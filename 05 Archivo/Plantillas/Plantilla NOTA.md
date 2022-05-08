@@ -1,11 +1,11 @@
-## {{Title}}
+# {{Title}}
 {{date}} - {{time}}
 #temporal #permanente
 
-### Definición de _{{title}}_
+### Definición de _{{title}}_:
 Es 
 
-### Nota Relacionad
+### Nota Relacionada:
 [[Una nota relacionada]] - Comentario
 
 ### Ejemplos de Referencias:

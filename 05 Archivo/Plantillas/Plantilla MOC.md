@@ -3,7 +3,7 @@
  
 #moc
 
-## Mapa de contenido de: _{{title}}_
+## Mapa de contenido de _{{title}}_
 1. OBJETIVOS:
 2. RESULTADO BUSCADO
 
