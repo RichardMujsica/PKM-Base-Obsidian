@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info PKM Base.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info PKM Base.md"
+                "file": "README.md"
               }
             }
           }
@@ -137,10 +137,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f747ff9dbcfe4bf8",
+  "active": "d0821e8eca3522b3",
   "lastOpenFiles": [
-    "Info PKM Base.md",
     "README.md",
+    "Info PKM Base.md",
     "Lista Referencias.md",
     "Lista notas Zettel.md",
     "Lista Mapas de Contenido.md",

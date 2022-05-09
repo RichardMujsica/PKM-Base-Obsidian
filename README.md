@@ -27,7 +27,7 @@ Subrayamos que, en esta versión v01 (2022-04), damos énfasis a  Zettelkasten. 
 ### Estructura de carpetas y archivos.
 - Ingrese a la siguiente página [[Info PKM Base]]
 
-#### Uso
+### Uso
 1. Descargue la bóveda como como una carpeta comprimida (ZIP). Ingrese al botón `Code` y descargue.
 2. Para utilizar el Entorno, extraer el contenido del Archivo ZIP y utilicelo como bóveda en Obsidian (Abrir Carpeta como bóveda).
 3. Esta bóveda ya cuenta con algunos plugins instalados. Por tanto, es necesario que durante su instalación se permita el uso de plugins externos.
