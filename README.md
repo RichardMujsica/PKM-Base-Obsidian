@@ -25,7 +25,7 @@ La estructura de este entorno base, pretende articular 2 métodos:
 Subrayamos que, en esta versión v01 (2022-04), damos énfasis a  Zettelkasten. Ya que pretende apoyar los procesos de análisis de información y generación de conocimiento (para la investigación). Sin embargo, reconocemos la importancia del GTD como herramienta de gestión de tareas y proyectos. Por lo cual, añadimos algunos componentes de ese método en este entorno, el cual se expresa en la  estructura mínima de carpetas.
 
 ### Estructura de carpetas y archivos.
-- Ingrese a la siguiente página [[Info PKM Base]]
+- Ingrese a la siguiente página: [Info PKM Base](https://github.com/RichardMujsica/PKM-Base/blob/main/Info%20PKM%20Base.md)
 
 ### Uso
 1. Descargue la bóveda como como una carpeta comprimida (ZIP). Ingrese al botón `Code` y descargue.
