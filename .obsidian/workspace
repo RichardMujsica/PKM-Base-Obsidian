@@ -14,6 +14,18 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "f747ff9dbcfe4bf8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Info PKM Base.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Info PKM Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Info PKM Base.md"
               }
             }
           }
@@ -125,13 +137,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0821e8eca3522b3",
+  "active": "f747ff9dbcfe4bf8",
   "lastOpenFiles": [
+    "Info PKM Base.md",
     "README.md",
     "Lista Referencias.md",
     "Lista notas Zettel.md",
     "Lista Mapas de Contenido.md",
-    "Info PKM Base.md",
     "05 Archivo/Plantillas/Plantilla REFERENCIA.md",
     "05 Archivo/Plantillas/Plantilla MOC.md",
     "05 Archivo/Plantillas/Plantilla NOTA.md",
