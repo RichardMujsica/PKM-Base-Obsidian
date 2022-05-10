@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Info PKM Base",
       "path": "Info PKM Base.md"
-    },
-    {
-      "basename": "Lista Referencias",
-      "path": "Lista Referencias.md"
     },
     {
       "basename": "Lista notas Zettel",
@@ -19,6 +11,14 @@
     {
       "basename": "Lista Mapas de Contenido",
       "path": "Lista Mapas de Contenido.md"
+    },
+    {
+      "basename": "Lista Referencias",
+      "path": "Lista Referencias.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Plantilla REFERENCIA",

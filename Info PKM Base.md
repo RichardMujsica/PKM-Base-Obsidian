@@ -10,17 +10,17 @@ Subrayamos que, en esta versión v01 (2022-04), damos énfasis a  Zettelkasten. 
 
 ### Estructura mínima de carpetas y archivos:
 1. **Zettelkasten**
-	1. 01 ZETTEL
-	2. 02 REFERENCIAS
-	3. MOC
+	1. 01 ZETTEL: Notas de ideas (permanentes).
+	2. 02 REFERENCIAS: Bibliográficas y Resúmen.
+	3. MOC: Notas tipo índice o mapa de contenido. 
 2. **GTD**
-	1. INBOX
-	2. Proyectos
-	3. Archivo 
+	1. INBOX: Captura de notas (para GTD y Zettelkasten).
+	2. Proyectos: Resultado buscado. Articula y/o genera notas de idea (Zettel) o referencia.
+	3. Archivo: Productos de proyectos.
 
 Adicionalmente, añadimos el uso de **plantillas** orientadas a las notas de Zettelkasten: 
 - Nota (permanente | temporal)
-- Nota de Referencia
+- Nota de Referencia (bibliográfica o resúmen)
 - Mapa de Contenido (moc).
 
 Sugerimos algunas _etiquetas_ para agrupar las notas del Zettelkasten: _permanente_, _temporal_, _moc_, y _referencia_.
