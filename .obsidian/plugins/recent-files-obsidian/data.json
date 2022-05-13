@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Ejemplo Idea 1",
+      "path": "01 ZETTEL/Ejemplo Idea 1.md"
     },
     {
       "basename": "Proyecto-01",
@@ -11,6 +11,10 @@
     {
       "basename": "Idea01",
       "path": "00 GTD/00-INBOX/Idea01.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Info PKM Base",
@@ -47,10 +51,6 @@
     {
       "basename": "Ejemplo de Referencia 1",
       "path": "02 REFERENCIAS/Ejemplo de Referencia 1.md"
-    },
-    {
-      "basename": "Ejemplo Idea 1",
-      "path": "01 ZETTEL/Ejemplo Idea 1.md"
     },
     {
       "basename": "Pasted image 20220423221025",
