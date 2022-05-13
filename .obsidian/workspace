@@ -7,9 +7,11 @@
         "id": "d0821e8eca3522b3",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "01 ZETTEL/anexo/Pasted image 20220423221025.png"
+            "file": "README.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 ZETTEL/anexo/Pasted image 20220423221025.png",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 ZETTEL/anexo/Pasted image 20220423221025.png"
+                "file": "README.md"
               }
             }
           }
@@ -120,10 +122,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "d0821e8eca3522b3",
   "lastOpenFiles": [
+    "README.md",
     "01 ZETTEL/anexo/Pasted image 20220423221025.png",
     "01 ZETTEL/anexo/Pasted image 20220423213103.png",
     "01 ZETTEL/Aclarar.md",
@@ -132,7 +136,6 @@
     "Lista notas Zettel.md",
     "Lista Mapas de Contenido.md",
     "01 ZETTEL/sfasdf.md",
-    "03 MOC/Ensayo Prov Camacho.md",
-    "Info PKM Base.md"
+    "03 MOC/Ensayo Prov Camacho.md"
   ]
 }
