@@ -3,9 +3,9 @@
  
 #moc
 
-## Mapa de contenido de: _Ejemplo de MOC_
+## Mapa de contenido de _Ejemplo de MOC_
 1. OBJETIVOS:
-2. RESULTADO BUSCADO
+2. RESULTADO BUSCADO:
 
 ## Componentes  
 %%Descripción de las partes conectando notas permanentes y ferencias%% 

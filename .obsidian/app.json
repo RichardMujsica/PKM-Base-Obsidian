@@ -3,6 +3,6 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "attachmentFolderPath": "./anexo",
+  "attachmentFolderPath": "02 REFERENCIAS/anexos",
   "newFileFolderPath": "00 GTD/00-INBOX"
 }

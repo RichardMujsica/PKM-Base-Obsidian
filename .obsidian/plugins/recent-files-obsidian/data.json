@@ -5,16 +5,52 @@
       "path": "README.md"
     },
     {
+      "basename": "Proyecto-01",
+      "path": "00 GTD/Proyecto-01/Proyecto-01.md"
+    },
+    {
+      "basename": "Idea01",
+      "path": "00 GTD/00-INBOX/Idea01.md"
+    },
+    {
+      "basename": "Info PKM Base",
+      "path": "Info PKM Base.md"
+    },
+    {
+      "basename": "Lista Mapas de Contenido",
+      "path": "Lista Mapas de Contenido.md"
+    },
+    {
+      "basename": "Lista Referencias",
+      "path": "Lista Referencias.md"
+    },
+    {
+      "basename": "Lista notas Zettel",
+      "path": "Lista notas Zettel.md"
+    },
+    {
+      "basename": "Plantilla REFERENCIA",
+      "path": "05 Archivo/Plantillas/Plantilla REFERENCIA.md"
+    },
+    {
+      "basename": "Plantilla NOTA",
+      "path": "05 Archivo/Plantillas/Plantilla NOTA.md"
+    },
+    {
+      "basename": "Plantilla MOC",
+      "path": "05 Archivo/Plantillas/Plantilla MOC.md"
+    },
+    {
+      "basename": "Ejemplo de MOC",
+      "path": "03 MOC/Ejemplo de MOC.md"
+    },
+    {
+      "basename": "Ejemplo de Referencia 1",
+      "path": "02 REFERENCIAS/Ejemplo de Referencia 1.md"
+    },
+    {
       "basename": "Ejemplo Idea 1",
       "path": "01 ZETTEL/Ejemplo Idea 1.md"
-    },
-    {
-      "basename": "Contenido-01",
-      "path": "00 GTD/Proyecto-01/Contenido-01.md"
-    },
-    {
-      "basename": "Nota-entrada-01",
-      "path": "00 GTD/00-INBOX/Nota-entrada-01.md"
     },
     {
       "basename": "Pasted image 20220423221025",
@@ -33,18 +69,6 @@
       "path": "05 Archivo/Resultados/Documento FINAL.md"
     },
     {
-      "basename": "Lista Referencias",
-      "path": "Lista Referencias.md"
-    },
-    {
-      "basename": "Lista notas Zettel",
-      "path": "Lista notas Zettel.md"
-    },
-    {
-      "basename": "Lista Mapas de Contenido",
-      "path": "Lista Mapas de Contenido.md"
-    },
-    {
       "basename": "sfasdf",
       "path": "01 ZETTEL/sfasdf.md"
     },
@@ -53,16 +77,8 @@
       "path": "03 MOC/Ensayo Prov Camacho.md"
     },
     {
-      "basename": "Info PKM Base",
-      "path": "Info PKM Base.md"
-    },
-    {
       "basename": "María",
       "path": "02 REFERENCIAS/María.md"
-    },
-    {
-      "basename": "Ejemplo de MOC",
-      "path": "03 MOC/Ejemplo de MOC.md"
     },
     {
       "basename": "Bendita. 2010 historia Sikuris Jutilaya",
@@ -73,20 +89,8 @@
       "path": "01 ZETTEL/Aclarar 2.md"
     },
     {
-      "basename": "Plantilla NOTA",
-      "path": "05 Archivo/Plantillas/Plantilla NOTA.md"
-    },
-    {
       "basename": "provincia Camacho",
       "path": "02 REFERENCIAS/provincia Camacho.md"
-    },
-    {
-      "basename": "Plantilla MOC",
-      "path": "05 Archivo/Plantillas/Plantilla MOC.md"
-    },
-    {
-      "basename": "Plantilla REFERENCIA",
-      "path": "05 Archivo/Plantillas/Plantilla REFERENCIA.md"
     }
   ],
   "omittedPaths": [],

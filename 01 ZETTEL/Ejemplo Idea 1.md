@@ -1,12 +1,12 @@
 ## Ejemplo Idea 1
 2022-04-23 - 12:05
-#temporal #permanente
+#permanente
 
 ### Definición de _Ejemplo Idea 1_
 Es 
 
-### Nota Relacionad
-[[Una nota relacionada]] - Comentario
+### Nota Relacionada
+[[Ejemplo de Referencia 1]] - Comentario
 
 ### Ejemplos de Referencias:
-![[0]] Colocar el fragmento o cita del dato
+![[Ejemplo de Referencia 1]] Colocar el fragmento o cita del dato
