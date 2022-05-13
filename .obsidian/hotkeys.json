@@ -1,0 +1,18 @@
+{
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ]
+}
