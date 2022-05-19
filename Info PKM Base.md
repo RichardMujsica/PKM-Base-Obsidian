@@ -6,16 +6,16 @@
 La estructura de este entorno base, pretende articular 2 métodos:
 - Zettelkasten
 - GTD
-Subrayamos que, en esta versión v01 (2022-04), damos énfasis a  Zettelkasten. Ya que pretende apoyar los procesos de análisis de información y generación de conocimiento (para la investigación). Sin embargo, reconocemos la importancia del GTD como herramienta de gestión de tareas y proyectos. Por lo cual, añadimos algunos componentes de ese método en este entorno, el cual se expresa en la siguiente estructura mínima de carpetas.
+Subrayamos que, en esta versión v01 (2022-04), damos énfasis a  Zettelkasten. Ya que pretende apoyar los procesos de análisis de información y generación de conocimiento (para la investigación). Sin embargo, reconocemos la importancia de contar con una herramienta de gestión de tareas y proyectos (como GTD o BuJo). Por lo cual, añadimos algunos componentes de esos métodos en este entorno (carpeta LIBRETA), el cual se expresa en la siguiente estructura mínima de carpetas.
 
 ### Estructura mínima de carpetas y archivos:
 1. **Zettelkasten**
 	1. 01 ZETTEL: Notas de ideas (permanentes).
 	2. 02 REFERENCIAS: Bibliográficas y Resúmen.
 	3. MOC: Notas tipo índice o mapa de contenido. 
-2. **GTD**
+2. **LIBRETA**
 	1. INBOX: Captura de notas (para GTD y Zettelkasten).
-	2. Proyectos: Resultado buscado. Articula y/o genera notas de idea (Zettel) o referencia.
+	2. Proyectos: Resultado buscado. Articula y/o genera posibles notas de idea (Zettel) o referencia.
 	3. Archivo: Productos de proyectos.
 
 Adicionalmente, añadimos el uso de **plantillas** orientadas a las notas de Zettelkasten: 

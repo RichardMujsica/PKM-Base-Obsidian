@@ -21,8 +21,8 @@ Optamos por utilizar [Obsidian.md](https://obsidian.md/), ya que su versatilidad
 ### Entorno PKM Base en Obsidian
 La estructura de este entorno base, pretende articular 2 métodos:
 - Zettelkasten
-- GTD
-Subrayamos que, en esta versión v01 (2022-04), damos énfasis a  Zettelkasten. Ya que pretende apoyar los procesos de análisis de información y generación de conocimiento (para la investigación). Sin embargo, reconocemos la importancia del GTD como herramienta de gestión de tareas y proyectos. Por lo cual, añadimos algunos componentes de ese método en este entorno, el cual se expresa en la  estructura mínima de carpetas.
+- GTD (BuJo)
+Subrayamos que, en esta versión v01 (2022-04), damos énfasis a  Zettelkasten. Ya que pretende apoyar los procesos de análisis de información y generación de conocimiento (para la investigación). Sin embargo, reconocemos la importancia de contar con una herramienta de gestión de tareas y proyectos (como GTD o BuJo). Por lo cual, añadimos algunos componentes de ese método en este entorno, el cual se expresa en la  estructura mínima de carpetas.
 
 ### Estructura de carpetas y archivos.
 - Ingrese a la siguiente página: [Info PKM Base](https://github.com/RichardMujsica/PKM-Base/blob/main/Info%20PKM%20Base.md)
