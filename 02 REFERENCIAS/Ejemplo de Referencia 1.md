@@ -1,5 +1,8 @@
 # Ejemplo de Referencia 1
-Autor - Año - Título/Tema
+autor:: 
+año:: 
+titulo:: 
+tema:: 
 #referencia
 
 ---

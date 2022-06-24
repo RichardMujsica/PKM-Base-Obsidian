@@ -1,12 +1,12 @@
-# {{Title}}
-{{date}} - {{time}}
+# <% tp.file.title %>
+<% tp.file.creation_date() %>
 #temporal #permanente
 
-### Definición de _{{title}}_:
-Es 
+### _<% tp.file.title %>_ en mis palabras:
+- 
 
-### Nota Relacionada:
+### Relacionada con:
 [[Una nota relacionada]] - Comentario
 
-### Ejemplos de Referencias:
+### Ejemplos - Referencias:
 ![[0]] Colocar el fragmento o cita del dato

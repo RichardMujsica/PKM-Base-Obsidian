@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b22b8079f787b9f4",
+        "id": "f3a896aaa8a1c67a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Info PKM Base.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 252
   },
   "right": {
     "id": "604964c7bca21ff6",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Info PKM Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Info PKM Base.md"
+              }
             }
           }
         ],
@@ -115,19 +122,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
-  "active": "b22b8079f787b9f4",
+  "active": "f3a896aaa8a1c67a",
   "lastOpenFiles": [
     "Info PKM Base.md",
     "README.md",
     "Lista Referencias.md",
     "Lista notas Zettel.md",
     "Lista Mapas de Contenido.md",
-    "01 ZETTEL/Ejemplo Idea 1.md",
-    "00 LIBRETA/Proyecto-01/Proyecto-01.md",
-    "00 LIBRETA/00-INBOX/Idea01.md",
-    "00 GTD/00-INBOX/hola.md",
-    "Pasted image 20220513050135.png"
+    "00 LIBRETA/Mapa de Proyectos. Kanban.md",
+    "00 LIBRETA/PROYECTOS/Negocio.md",
+    "00 LIBRETA/PROYECTOS/Proyecto-01.md",
+    "05 Archivo/Plantillas/Plantilla PROYECTO.md",
+    "00 LIBRETA/INBOX/SDFADSF.md"
   ]
 }

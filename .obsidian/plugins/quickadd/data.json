@@ -1,0 +1,118 @@
+{
+  "choices": [
+    {
+      "id": "dc057f53-1623-459d-baa2-ae3fc313e75a",
+      "name": "Nota Idea",
+      "type": "Template",
+      "command": false,
+      "templatePath": "05 Archivo/Plantillas/Plantilla NOTA.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": "{{DATE:YYYY-MM-DD-HH-mm}} - {{NAME}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "01 ZETTEL"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "7ecfe4e8-d1c8-4cc6-81bb-a2298041f7b1",
+      "name": "Referencia",
+      "type": "Template",
+      "command": false,
+      "templatePath": "05 Archivo/Plantillas/Plantilla REFERENCIA.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "02 REFERENCIAS"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "10ea49a4-63ca-4b0b-b74b-fe727575da1b",
+      "name": "Mapa de Contenido",
+      "type": "Template",
+      "command": false,
+      "templatePath": "05 Archivo/Plantillas/Plantilla MOC.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "03 MOC"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "6a34ec6a-c003-4329-afd1-07f6f2727e76",
+      "name": "Proyecto",
+      "type": "Template",
+      "command": false,
+      "templatePath": "05 Archivo/Plantillas/Plantilla PROYECTO.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "00 LIBRETA/PROYECTOS"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}

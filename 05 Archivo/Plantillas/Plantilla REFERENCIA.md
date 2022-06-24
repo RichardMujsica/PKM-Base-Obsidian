@@ -1,9 +1,12 @@
-# {{title}}
-Autor - Año - Título/Tema
+# <% tp.file.title %>
+autor:: 
+año:: 
+titulo:: 
+tema:: 
 #referencia
 
 ---
-## Nota Bibliográfica
+## Nota bibliográfica y resúmen
 
 ### Datos de Referencia (Zotero)
 %%Añadir la referencia bibliográfica o referencia de Zotero%%

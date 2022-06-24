@@ -21,16 +21,16 @@
       "path": "Lista Mapas de Contenido.md"
     },
     {
-      "basename": "Ejemplo Idea 1",
-      "path": "01 ZETTEL/Ejemplo Idea 1.md"
+      "basename": "Mapa de Proyectos. Kanban",
+      "path": "00 LIBRETA/Mapa de Proyectos. Kanban.md"
     },
     {
       "basename": "Proyecto-01",
-      "path": "00 LIBRETA/Proyecto-01/Proyecto-01.md"
+      "path": "00 LIBRETA/PROYECTOS/Proyecto-01.md"
     },
     {
-      "basename": "Idea01",
-      "path": "00 LIBRETA/00-INBOX/Idea01.md"
+      "basename": "Plantilla PROYECTO",
+      "path": "05 Archivo/Plantillas/Plantilla PROYECTO.md"
     },
     {
       "basename": "Plantilla REFERENCIA",
@@ -51,6 +51,18 @@
     {
       "basename": "Ejemplo de Referencia 1",
       "path": "02 REFERENCIAS/Ejemplo de Referencia 1.md"
+    },
+    {
+      "basename": "Ejemplo Idea 1",
+      "path": "01 ZETTEL/Ejemplo Idea 1.md"
+    },
+    {
+      "basename": "Tarea01",
+      "path": "00 LIBRETA/INBOX/Tarea01.md"
+    },
+    {
+      "basename": "pachakamani",
+      "path": "05 Archivo/Plantillas/pachakamani.jpg"
     },
     {
       "basename": "Pasted image 20220423221025",

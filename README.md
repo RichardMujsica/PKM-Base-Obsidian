@@ -21,18 +21,19 @@ Optamos por utilizar [Obsidian.md](https://obsidian.md/), ya que su versatilidad
 ### Entorno PKM Base en Obsidian
 La estructura de este entorno base, pretende articular 2 métodos:
 - Zettelkasten
-- GTD (BuJo)
-Subrayamos que, en esta versión v01 (2022-04), damos énfasis a  Zettelkasten. Ya que pretende apoyar los procesos de análisis de información y generación de conocimiento (para la investigación). Sin embargo, reconocemos la importancia de contar con una herramienta de gestión de tareas y proyectos (como GTD o BuJo). Por lo cual, añadimos algunos componentes de ese método en este entorno, el cual se expresa en la  estructura mínima de carpetas.
+- GTD / BuJo
+Se inició con una base simplificada (versión v01-2022-04), dando énfasis a  Zettelkasten. Ya que pretende apoyar los procesos de análisis de información y generación de conocimiento (para la investigación) pero de una forma inicial, sin incorporar aún la codificación Folgezettel sino a partir de `[[Wikilinks]]`. Sin embargo, reconocemos la importancia de contar con una herramienta de gestión de tareas y proyectos (como GTD o BuJo). Por lo cual, añadimos algunos componentes de ese método en este entorno, el cual se expresa en la estructura mínima de carpetas que sigue a continuación.
 
 ### Estructura de carpetas y archivos.
-- Ingrese a la siguiente página: [Info PKM Base](https://github.com/RichardMujsica/PKM-Base/blob/main/Info%20PKM%20Base.md)
+- En la siguiente página encontrará información detallada de la estructura de archivos y flujo de trabajo de este entorno base de PKM: [Info PKM Base](https://github.com/RichardMujsica/PKM-Base/blob/main/Info%20PKM%20Base.md) - [Info PKM Base](Info%20PKM%20Base.md)
 
 ### Uso
-1. Descargue la bóveda como como una carpeta comprimida (ZIP). Ingrese al botón `Code` y descargue.
-2. Para utilizar el Entorno, extraer el contenido del Archivo ZIP y utilicelo como bóveda en Obsidian (Abrir Carpeta como bóveda).
+1. Descargue la bóveda como una carpeta comprimida (ZIP). Ingrese al botón `Code` y descargue.
+2. Para emplear el Entorno, extraer el contenido del Archivo ZIP y utilícelo como bóveda en Obsidian (Abrir Carpeta como bóveda).
 3. Esta bóveda ya cuenta con algunos plugins instalados. Por tanto, es necesario que durante su instalación se permita el uso de plugins externos.
 
 ### PKM Base elaborado por:
 - [Richard Mújica Angulo](https://bio.link/richardmujica), antropólogo UMSA, cofundador de [PachaKamani](https://pachakamani.com/).
-- 2022-04-20.
+- Versión inicial: 2022-04-20.
+- Actualización: 2022-06-23.
 - La Paz, Bolivia.
