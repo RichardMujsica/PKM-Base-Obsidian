@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Info PKM Base.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -76,6 +76,47 @@
     "type": "split",
     "children": [
       {
+        "id": "983dfe6f530d7a13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bf47665fa112da2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224422,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "439d60273c233d64",
         "type": "tabs",
         "children": [
@@ -85,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info PKM Base.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,29 +154,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info PKM Base.md"
+                "file": "README.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
   "active": "f3a896aaa8a1c67a",
   "lastOpenFiles": [
-    "Info PKM Base.md",
     "README.md",
+    "00 LIBRETA/PROYECTOS/Proyecto-01.md",
+    "00 LIBRETA/INBOX/Tarea01.md",
+    "Lista Mapas de Contenido.md",
+    "Info PKM Base.md",
     "Lista Referencias.md",
     "Lista notas Zettel.md",
-    "Lista Mapas de Contenido.md",
     "00 LIBRETA/Mapa de Proyectos. Kanban.md",
     "00 LIBRETA/PROYECTOS/Negocio.md",
-    "00 LIBRETA/PROYECTOS/Proyecto-01.md",
-    "05 Archivo/Plantillas/Plantilla PROYECTO.md",
-    "00 LIBRETA/INBOX/SDFADSF.md"
+    "05 Archivo/Plantillas/Plantilla PROYECTO.md"
   ]
 }

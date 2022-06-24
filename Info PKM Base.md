@@ -1,11 +1,12 @@
 ![](05%20Archivo/Plantillas/pachakamani.jpg)
-# PKM Base v01 - Información
+# PKM Base v02 - Información
 ## Gestión del conocimiento personal (PKM). Entorno e instrumentos básicos orientados a la aplicación del PKM para a investigadoras/es
 
 ## Contenido del PKM Base en Obsidian
 La estructura de este entorno base, pretende articular 2 métodos:
 - Zettelkasten
 - GTD / BuJo
+
 Subrayamos que, en esta versión v02 (2022-06), damos énfasis a  Zettelkasten. Ya que pretende apoyar los procesos de análisis de información y generación de conocimiento (para la investigación) pero de una forma inicial, sin incorporar aún la codificación Folgezettel sino a partir de `[[Wikilinks]]`. Sin embargo, reconocemos la importancia de contar con una herramienta de gestión de tareas y proyectos (como GTD o BuJo). Por lo cual, añadimos algunos componentes de ese método en este entorno, el cual se expresa en la estructura mínima de carpetas.
 
 ### 1. Estructura mínima de carpetas y archivos:
