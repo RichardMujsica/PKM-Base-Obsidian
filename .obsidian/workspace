@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "05 Archivo/Plantillas/Plantilla NOTA.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "05 Archivo/Plantillas/Plantilla NOTA.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "05 Archivo/Plantillas/Plantilla NOTA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "05 Archivo/Plantillas/Plantilla NOTA.md"
               }
             }
           }
@@ -167,6 +167,7 @@
   },
   "active": "f3a896aaa8a1c67a",
   "lastOpenFiles": [
+    "05 Archivo/Plantillas/Plantilla NOTA.md",
     "README.md",
     "00 LIBRETA/PROYECTOS/Proyecto-01.md",
     "00 LIBRETA/INBOX/Tarea01.md",
@@ -175,7 +176,6 @@
     "Lista Referencias.md",
     "Lista notas Zettel.md",
     "00 LIBRETA/Mapa de Proyectos. Kanban.md",
-    "00 LIBRETA/PROYECTOS/Negocio.md",
-    "05 Archivo/Plantillas/Plantilla PROYECTO.md"
+    "00 LIBRETA/PROYECTOS/Negocio.md"
   ]
 }
