@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05 Archivo/Plantillas/Plantilla NOTA.md",
+            "file": "Lista Referencias.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "05 Archivo/Plantillas/Plantilla NOTA.md",
+                "file": "Lista Referencias.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 Archivo/Plantillas/Plantilla NOTA.md",
+                "file": "Lista Referencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 Archivo/Plantillas/Plantilla NOTA.md"
+                "file": "Lista Referencias.md"
               }
             }
           }
@@ -165,16 +165,16 @@
     "direction": "horizontal",
     "width": 272
   },
-  "active": "f3a896aaa8a1c67a",
+  "active": "43a1a28c721748f7",
   "lastOpenFiles": [
-    "05 Archivo/Plantillas/Plantilla NOTA.md",
+    "Lista notas Zettel.md",
+    "Lista Mapas de Contenido.md",
     "README.md",
+    "Info PKM Base.md",
+    "05 Archivo/Plantillas/Plantilla NOTA.md",
     "00 LIBRETA/PROYECTOS/Proyecto-01.md",
     "00 LIBRETA/INBOX/Tarea01.md",
-    "Lista Mapas de Contenido.md",
-    "Info PKM Base.md",
     "Lista Referencias.md",
-    "Lista notas Zettel.md",
     "00 LIBRETA/Mapa de Proyectos. Kanban.md",
     "00 LIBRETA/PROYECTOS/Negocio.md"
   ]
