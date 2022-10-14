@@ -5,16 +5,16 @@
       "path": "Lista Referencias.md"
     },
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "Lista notas Zettel",
       "path": "Lista notas Zettel.md"
     },
     {
       "basename": "Lista Mapas de Contenido",
       "path": "Lista Mapas de Contenido.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     },
     {
       "basename": "Info PKM Base",
