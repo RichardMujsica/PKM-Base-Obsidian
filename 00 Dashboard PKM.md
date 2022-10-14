@@ -40,4 +40,5 @@
 >SORT file.ctime DESC
 >```
 
-[[0 Mapa de Proyectos. Kanban]]
+
+[Richard Mújica Angulo](https://bio.link/richardmujica) -  [PachaKamani](https://pachakamani.com/).

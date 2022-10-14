@@ -29,7 +29,7 @@ La estructura de este entorno base, pretende una aproximación a 2 métodos:
 - En el siguiente enlace: [Info PKM Base](Info%20PKM%20Base.md), encontrará información detallada de la estructura de archivos/ficheros y flujo de trabajo de este entorno base de PKM.
 
 ### Uso de esta bóveda
-1. Descargue la bóveda como una carpeta comprimida (ZIP). Ingrese al botón `Code` y "descargue".
+1. Descargue la bóveda como una carpeta comprimida (ZIP). Ingrese al botón `Code` y descargue en [Download Zip](https://github.com/RichardMujsica/PKM-Base-Obsidian/archive/refs/heads/main.zip).
 2. Extraer el contenido del Archivo ZIP y utilícelo como bóveda en Obsidian (Abrir carpeta como bóveda).
 3. Esta bóveda ya cuenta con algunos _plugins_ instalados. Por tanto, es necesario que durante su instalación se permita el uso de plugins externos.
 
