@@ -10,7 +10,7 @@ Base de entorno digital para la construcción de un PKM en Obsidian. Orientado a
 ## Presentación
 Los procesos de formación e investigación académica han presentado varios matices en la última década. Se reconoce que su ejercicio no está desprendido de otros ámbitos laborales y de aprendizaje constante y personal. Además, día con día estamos sumergidos en un proceso de "infoxicación" que reduce la posibilidad de aprovechamiento, análisis y producción de ideas y conocimiento.
 
-Asimismo, también se están dando a conocer otras maneras de gestión de la información que, articuladas con herramientas digitales, se plantean como alternativas que favorecen estos procesos, entendidos como constantes flujos de aprendizaje y generación de conocimientos que no separan la teoría de la práctica. 
+Asimismo, también se están dando a conocer otras maneras de gestión de la información que, articuladas con herramientas digitales, se plantean como alternativas que favorecen estos procesos, entendidos como constantes flujos de aprendizaje y generación de conocimientos que no separan la teoría de la práctica.
 
 Desde el _Colectivo de Investigación PachaKamani_ realizamos encuentros de formación e intercambio (individuales y colectivos) sobre herramientas y métodos de aplicación para la "Gestión del conocimiento personal (PKM)". Estos espacios son básicos y están orientados a investigadores iniciales en Ciencias Sociales. 
 
