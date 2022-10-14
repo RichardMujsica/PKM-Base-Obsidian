@@ -5,22 +5,6 @@
       "path": "00 Dashboard PKM.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Info PKM Base",
-      "path": "Info PKM Base.md"
-    },
-    {
-      "basename": "0 Mapa de Proyectos. Kanban",
-      "path": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
-    },
-    {
-      "basename": "PKM-kamani",
-      "path": "05 Archivo/Plantillas/PKM-kamani.JPG"
-    },
-    {
       "basename": "Plantilla REFERENCIA",
       "path": "05 Archivo/Plantillas/Plantilla REFERENCIA.md"
     },
@@ -35,6 +19,22 @@
     {
       "basename": "Plantilla MOC",
       "path": "05 Archivo/Plantillas/Plantilla MOC.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "Info PKM Base",
+      "path": "Info PKM Base.md"
+    },
+    {
+      "basename": "0 Mapa de Proyectos. Kanban",
+      "path": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
+    },
+    {
+      "basename": "PKM-kamani",
+      "path": "05 Archivo/Plantillas/PKM-kamani.JPG"
     },
     {
       "basename": "Ejemplo de MOC",
