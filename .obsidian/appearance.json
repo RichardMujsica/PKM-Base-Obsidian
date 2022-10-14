@@ -1,5 +1,6 @@
 {
   "baseFontSizeAction": true,
-  "baseFontSize": 20,
-  "accentColor": ""
+  "baseFontSize": 21,
+  "accentColor": "",
+  "nativeMenus": false
 }

@@ -8,12 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f3a896aaa8a1c67a",
+            "id": "674e66ad66a14513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lista Referencias.md",
+                "file": "00 Dashboard PKM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cf218c755758cef",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "59b5f88b8bc8c548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Info PKM Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lista Referencias.md",
+                "file": "00 Dashboard PKM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lista Referencias.md",
+                "file": "00 Dashboard PKM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,12 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lista Referencias.md"
+                "file": "00 Dashboard PKM.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,17 +198,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f3a896aaa8a1c67a",
+  "active": "976cea545a74625c",
   "lastOpenFiles": [
+    "Info PKM Base.md",
+    "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
     "README.md",
+    "05 Archivo/Plantillas/PKM-kamani.JPG",
+    "00 Dashboard PKM.md",
     "Lista Referencias.md",
     "Lista notas Zettel.md",
     "Lista Mapas de Contenido.md",
-    "Info PKM Base.md",
-    "05 Archivo/Plantillas/Plantilla NOTA.md",
-    "00 LIBRETA/PROYECTOS/Proyecto-01.md",
-    "00 LIBRETA/INBOX/Tarea01.md",
-    "00 LIBRETA/Mapa de Proyectos. Kanban.md",
-    "00 LIBRETA/PROYECTOS/Negocio.md"
+    "05 Archivo/Plantillas/Plantilla REFERENCIA.md",
+    "05 Archivo/Plantillas/Plantilla PROYECTO.md"
   ]
 }

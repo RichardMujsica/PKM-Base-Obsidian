@@ -1,48 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Lista Referencias",
-      "path": "Lista Referencias.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Lista notas Zettel",
-      "path": "Lista notas Zettel.md"
-    },
-    {
-      "basename": "Lista Mapas de Contenido",
-      "path": "Lista Mapas de Contenido.md"
+      "basename": "00 Dashboard PKM",
+      "path": "00 Dashboard PKM.md"
     },
     {
       "basename": "Info PKM Base",
       "path": "Info PKM Base.md"
     },
     {
-      "basename": "Plantilla NOTA",
-      "path": "05 Archivo/Plantillas/Plantilla NOTA.md"
+      "basename": "0 Mapa de Proyectos. Kanban",
+      "path": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
     },
     {
-      "basename": "Proyecto-01",
-      "path": "00 LIBRETA/PROYECTOS/Proyecto-01.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
-      "basename": "Tarea01",
-      "path": "00 LIBRETA/INBOX/Tarea01.md"
+      "basename": "PKM-kamani",
+      "path": "05 Archivo/Plantillas/PKM-kamani.JPG"
     },
     {
-      "basename": "Mapa de Proyectos. Kanban",
-      "path": "00 LIBRETA/Mapa de Proyectos. Kanban.md"
+      "basename": "Plantilla REFERENCIA",
+      "path": "05 Archivo/Plantillas/Plantilla REFERENCIA.md"
     },
     {
       "basename": "Plantilla PROYECTO",
       "path": "05 Archivo/Plantillas/Plantilla PROYECTO.md"
     },
     {
-      "basename": "Plantilla REFERENCIA",
-      "path": "05 Archivo/Plantillas/Plantilla REFERENCIA.md"
+      "basename": "Plantilla NOTA",
+      "path": "05 Archivo/Plantillas/Plantilla NOTA.md"
     },
     {
       "basename": "Plantilla MOC",
@@ -58,7 +46,15 @@
     },
     {
       "basename": "Ejemplo Idea 1",
-      "path": "01 ZETTEL/Ejemplo Idea 1.md"
+      "path": "01 IDEAS/Ejemplo Idea 1.md"
+    },
+    {
+      "basename": "Proyecto-01",
+      "path": "00 LIBRETA/PROYECTOS/Proyecto-01.md"
+    },
+    {
+      "basename": "Tarea01",
+      "path": "00 LIBRETA/INBOX/Tarea01.md"
     },
     {
       "basename": "pachakamani",

@@ -4,5 +4,7 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
   "attachmentFolderPath": "02 REFERENCIAS/anexos",
-  "newFileFolderPath": "00 LIBRETA/INBOX"
+  "newFileFolderPath": "00 LIBRETA/INBOX",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false
 }

@@ -2,9 +2,9 @@
   "editor:toggle-fold": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "3"
+      "key": "ArrowRight"
     }
   ],
   "insert-template": [
@@ -22,6 +22,30 @@
         "Alt"
       ],
       "key": "N"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
     }
   ]
 }
