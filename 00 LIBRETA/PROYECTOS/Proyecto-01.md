@@ -2,10 +2,10 @@
 #proyecto 
 
 ### Definición del resultado
-1. Idea inicial:
+1. Idea inicial: 
 	1. 
-2. Resultado:
-3. Preguntas útiles:
+2. Resultado: 
+3. Preguntas útiles: 
 	1. 
 4. Objetivo Smart del proyecto
 	1. Específico: Definir con claridad

@@ -195,20 +195,17 @@
     "direction": "horizontal",
     "width": 272
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "976cea545a74625c",
   "lastOpenFiles": [
+    "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
+    "00 LIBRETA/PROYECTOS/Proyecto-01.md",
+    "00 Dashboard PKM.md",
+    "Info PKM Base.md",
     "05 Archivo/Plantillas/Plantilla REFERENCIA.md",
     "05 Archivo/Plantillas/Plantilla PROYECTO.md",
     "05 Archivo/Plantillas/Plantilla NOTA.md",
     "05 Archivo/Plantillas/Plantilla MOC.md",
-    "00 Dashboard PKM.md",
     "README.md",
-    "Info PKM Base.md",
-    "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
-    "05 Archivo/Plantillas/PKM-kamani.JPG",
-    "Lista Referencias.md"
+    "05 Archivo/Plantillas/PKM-kamani.JPG"
   ]
 }

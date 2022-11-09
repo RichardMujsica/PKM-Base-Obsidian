@@ -5,6 +5,18 @@
       "path": "00 Dashboard PKM.md"
     },
     {
+      "basename": "0 Mapa de Proyectos. Kanban",
+      "path": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
+    },
+    {
+      "basename": "Proyecto-01",
+      "path": "00 LIBRETA/PROYECTOS/Proyecto-01.md"
+    },
+    {
+      "basename": "Info PKM Base",
+      "path": "Info PKM Base.md"
+    },
+    {
       "basename": "Plantilla REFERENCIA",
       "path": "05 Archivo/Plantillas/Plantilla REFERENCIA.md"
     },
@@ -25,14 +37,6 @@
       "path": "README.md"
     },
     {
-      "basename": "Info PKM Base",
-      "path": "Info PKM Base.md"
-    },
-    {
-      "basename": "0 Mapa de Proyectos. Kanban",
-      "path": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
-    },
-    {
       "basename": "PKM-kamani",
       "path": "05 Archivo/Plantillas/PKM-kamani.JPG"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Ejemplo Idea 1",
       "path": "01 IDEAS/Ejemplo Idea 1.md"
-    },
-    {
-      "basename": "Proyecto-01",
-      "path": "00 LIBRETA/PROYECTOS/Proyecto-01.md"
     },
     {
       "basename": "Tarea01",
