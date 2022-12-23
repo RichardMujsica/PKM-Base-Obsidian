@@ -6,5 +6,10 @@
   "attachmentFolderPath": "02 REFERENCIAS/anexos",
   "newFileFolderPath": "00 LIBRETA/INBOX",
   "showUnsupportedFiles": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "es",
+    "es-MX"
+  ]
 }

@@ -9,12 +9,12 @@
       "path": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
     },
     {
-      "basename": "Proyecto-01",
-      "path": "00 LIBRETA/PROYECTOS/Proyecto-01.md"
-    },
-    {
       "basename": "Info PKM Base",
       "path": "Info PKM Base.md"
+    },
+    {
+      "basename": "Proyecto-01",
+      "path": "00 LIBRETA/PROYECTOS/Proyecto-01.md"
     },
     {
       "basename": "Plantilla REFERENCIA",
@@ -102,5 +102,6 @@
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
