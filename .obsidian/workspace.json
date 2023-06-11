@@ -23,9 +23,11 @@
             "id": "0cf218c755758cef",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
+                "file": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -80,18 +82,18 @@
             }
           },
           {
-            "id": "a984d61e13c27b79",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "43a1a28c721748f7",
             "type": "leaf",
             "state": {
               "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "cff9821206d7ba6c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -207,11 +209,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "976cea545a74625c",
+  "active": "f254f1b7a3076b79",
   "lastOpenFiles": [
+    "00 Dashboard PKM.md",
     "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
     "Info PKM Base.md",
-    "00 Dashboard PKM.md",
     "00 LIBRETA/PROYECTOS/Proyecto-01.md",
     "05 Archivo/Plantillas/Plantilla REFERENCIA.md",
     "05 Archivo/Plantillas/Plantilla PROYECTO.md",
