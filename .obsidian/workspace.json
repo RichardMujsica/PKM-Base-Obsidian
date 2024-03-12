@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Dashboard PKM.md",
+                "file": "Info PKM Base.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 Dashboard PKM.md",
+                "file": "Info PKM Base.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +140,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224422,
+                  "scale": 0.5087618855792588,
                   "close": true
                 }
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Dashboard PKM.md",
+                "file": "Info PKM Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Dashboard PKM.md"
+                "file": "Info PKM Base.md"
               }
             }
           }
@@ -199,27 +199,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir el importador de Markdown": false,
-      "workspaces:Manage workspace layouts": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "f254f1b7a3076b79",
+  "active": "674e66ad66a14513",
   "lastOpenFiles": [
-    "00 Dashboard PKM.md",
-    "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
+    "README.md",
     "Info PKM Base.md",
+    "03 MOC/Ejemplo de MOC.md",
+    "00 Dashboard PKM.md",
+    "01 IDEAS/Ejemplo Idea 1.md",
+    "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
     "00 LIBRETA/PROYECTOS/Proyecto-01.md",
     "05 Archivo/Plantillas/Plantilla REFERENCIA.md",
     "05 Archivo/Plantillas/Plantilla PROYECTO.md",
     "05 Archivo/Plantillas/Plantilla NOTA.md",
     "05 Archivo/Plantillas/Plantilla MOC.md",
-    "README.md",
     "05 Archivo/Plantillas/PKM-kamani.JPG"
   ]
 }

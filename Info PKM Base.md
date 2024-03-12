@@ -16,7 +16,7 @@ A partir de lo mencionado, la estructura mínima (base) de los archivos se agrup
 1. **Para el Método Zettelkasten**
 	1. Carpeta "01 IDEAS": Notas de ideas (permanentes-atómicas).
 	2. Carpeta "02 REFERENCIAS": Notas Bibliográficas y Resumen.
-	3. Carpeta "03 MOC": Notas tipo índice o mapa de contenido. 
+	3. Carpeta "00 Libreta": Notas tipo índice o mapa de contenido Operacional. 
 2. **Ingreso de información y organización de proyectos:** Carpeta "00 LIBRETA"
 	1. Subcarpeta _INBOX_: Captura de notas iniciales o de tareas. Espacio de entrada general para toda la Bóveda. Luego de la revisión o aclarado de estas, se derivan a la sección correspondiente.
 	2. Subcarpeta _Proyectos_: Esta es la sección de _colecciones_ de notas referidas a proyectos (resultado buscado). Asimismo, este espacio tiene la posibilidad de articular y/o generar nuevas notas de idea (Zettel) o solo referencia en el proceso de trabajo cotidiano.
@@ -38,11 +38,11 @@ Sugerimos algunas _etiquetas_ para agrupar las notas del Zettelkasten, las cuale
 
 Con ayuda de algunos plugins ya instalados y mediante el uso de "atajos de teclado", proponemos el siguiente proceso:
 - Alt + W : Ingresa a workspace para seleccionar un Espacio de Trabajo: El Dashboard con el resumen del PKM, el tablero Kanban de proyectos o la Información de esta Bóveda. 
-- Ctrl+N : **Ingresa una nota general (en blanco)** en la carpeta INBOX, sin utilizar plantillas.
+- Ctrl+N : **Ingresa una nota general (en blanco)** en la carpeta 00 LIBRETA/INBOX, sin utilizar plantillas.
 - Alt+N : Activa el Plugin QuickAdd para seleccionar el TIPO DE NOTA que desea ingresar. Estas **notas específicas** se almacenan automáticamente en sus respectivas carpetas:
 	- Nota Idea, se almacena en el Fichero "01 IDEAS"
 	- Nota Referencia, se almacena en el fichero "02 REFERENCIAS"
-	- Nota MOC (mapa de contenido), en el fichero "03 MOC"
+	- Nota MOC (mapa de contenido), en el fichero "00 LIBRETA"
 	- Nota de Proyecto, en la subcarpeta "Proyectos" dentro de "00 LIBRETA"
 
 #### Plugins preinstalados

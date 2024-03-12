@@ -8,8 +8,5 @@
   "showUnsupportedFiles": true,
   "showInlineTitle": false,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "es",
-    "es-MX"
-  ]
+  "spellcheckLanguages": null
 }
