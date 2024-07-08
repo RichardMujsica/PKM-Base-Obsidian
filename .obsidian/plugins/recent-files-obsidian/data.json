@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "00 Dashboard PKM",
+      "path": "00 Dashboard PKM.md"
+    },
+    {
       "basename": "Info PKM Base",
       "path": "Info PKM Base.md"
     },
@@ -9,92 +13,48 @@
       "path": "README.md"
     },
     {
-      "basename": "00 Dashboard PKM",
-      "path": "00 Dashboard PKM.md"
-    },
-    {
-      "basename": "Ejemplo Idea 1",
-      "path": "01 IDEAS/Ejemplo Idea 1.md"
-    },
-    {
-      "basename": "0 Mapa de Proyectos. Kanban",
-      "path": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
+      "basename": "Plantilla REFERENCIA",
+      "path": "05 Archivo/Plantillas/Plantilla REFERENCIA.md"
     },
     {
       "basename": "Proyecto-01",
       "path": "00 LIBRETA/PROYECTOS/Proyecto-01.md"
     },
     {
-      "basename": "Plantilla REFERENCIA",
-      "path": "05 Archivo/Plantillas/Plantilla REFERENCIA.md"
+      "basename": "0 Mapa de Proyectos. Kanban",
+      "path": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
     },
     {
-      "basename": "Plantilla PROYECTO",
-      "path": "05 Archivo/Plantillas/Plantilla PROYECTO.md"
-    },
-    {
-      "basename": "Plantilla NOTA",
-      "path": "05 Archivo/Plantillas/Plantilla NOTA.md"
-    },
-    {
-      "basename": "Plantilla MOC",
-      "path": "05 Archivo/Plantillas/Plantilla MOC.md"
-    },
-    {
-      "basename": "PKM-kamani",
-      "path": "05 Archivo/Plantillas/PKM-kamani.JPG"
+      "basename": "Ejemplo Idea 1",
+      "path": "01 IDEAS/Ejemplo Idea 1.md"
     },
     {
       "basename": "Ejemplo de Referencia 1",
       "path": "02 REFERENCIAS/Ejemplo de Referencia 1.md"
     },
     {
-      "basename": "Tarea01",
-      "path": "00 LIBRETA/INBOX/Tarea01.md"
-    },
-    {
       "basename": "pachakamani",
       "path": "05 Archivo/Plantillas/pachakamani.jpg"
     },
     {
-      "basename": "Pasted image 20220423221025",
-      "path": "01 ZETTEL/anexo/Pasted image 20220423221025.png"
+      "basename": "Tarea01",
+      "path": "00 LIBRETA/INBOX/Tarea01.md"
     },
     {
-      "basename": "Pasted image 20220423213103",
-      "path": "01 ZETTEL/anexo/Pasted image 20220423213103.png"
+      "basename": "PKM-kamani",
+      "path": "05 Archivo/Plantillas/PKM-kamani.JPG"
     },
     {
-      "basename": "Aclarar",
-      "path": "01 ZETTEL/Aclarar.md"
+      "basename": "Plantilla MOC",
+      "path": "05 Archivo/Plantillas/Plantilla MOC.md"
     },
     {
-      "basename": "Documento FINAL",
-      "path": "05 Archivo/Resultados/Documento FINAL.md"
+      "basename": "Plantilla NOTA",
+      "path": "05 Archivo/Plantillas/Plantilla NOTA.md"
     },
     {
-      "basename": "sfasdf",
-      "path": "01 ZETTEL/sfasdf.md"
-    },
-    {
-      "basename": "Ensayo Prov Camacho",
-      "path": "03 MOC/Ensayo Prov Camacho.md"
-    },
-    {
-      "basename": "María",
-      "path": "02 REFERENCIAS/María.md"
-    },
-    {
-      "basename": "Bendita. 2010 historia Sikuris Jutilaya",
-      "path": "02 REFERENCIAS/Bendita. 2010 historia Sikuris Jutilaya.md"
-    },
-    {
-      "basename": "Aclarar 2",
-      "path": "01 ZETTEL/Aclarar 2.md"
-    },
-    {
-      "basename": "provincia Camacho",
-      "path": "02 REFERENCIAS/provincia Camacho.md"
+      "basename": "Plantilla PROYECTO",
+      "path": "05 Archivo/Plantillas/Plantilla PROYECTO.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info PKM Base.md",
+                "file": "00 Dashboard PKM.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,11 +23,13 @@
             "id": "0cf218c755758cef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
                 "file": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
-                "mode": "source",
-                "source": false
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
               }
             }
           },
@@ -82,18 +84,18 @@
             }
           },
           {
-            "id": "43a1a28c721748f7",
+            "id": "a984d61e13c27b79",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "starred",
               "state": {}
             }
           },
           {
-            "id": "cff9821206d7ba6c",
+            "id": "43a1a28c721748f7",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
+              "type": "recent-files",
               "state": {}
             }
           }
@@ -117,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info PKM Base.md",
+                "file": "00 Dashboard PKM.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info PKM Base.md",
+                "file": "00 Dashboard PKM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info PKM Base.md"
+                "file": "00 Dashboard PKM.md"
               }
             }
           }
@@ -206,22 +208,26 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir el importador de Markdown": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "674e66ad66a14513",
+  "active": "976cea545a74625c",
   "lastOpenFiles": [
-    "README.md",
     "Info PKM Base.md",
-    "03 MOC/Ejemplo de MOC.md",
-    "00 Dashboard PKM.md",
-    "01 IDEAS/Ejemplo Idea 1.md",
-    "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
-    "00 LIBRETA/PROYECTOS/Proyecto-01.md",
+    "README.md",
     "05 Archivo/Plantillas/Plantilla REFERENCIA.md",
-    "05 Archivo/Plantillas/Plantilla PROYECTO.md",
-    "05 Archivo/Plantillas/Plantilla NOTA.md",
+    "00 LIBRETA/PROYECTOS/Proyecto-01.md",
+    "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
+    "01 IDEAS/Ejemplo Idea 1.md",
+    "02 REFERENCIAS/Ejemplo de Referencia 1.md",
+    "00 Dashboard PKM.md",
+    "05 Archivo/Plantillas/pachakamani.jpg",
+    "00 LIBRETA/INBOX/Tarea01.md",
+    "05 Archivo/Plantillas/PKM-kamani.JPG",
     "05 Archivo/Plantillas/Plantilla MOC.md",
-    "05 Archivo/Plantillas/PKM-kamani.JPG"
+    "05 Archivo/Plantillas/Plantilla NOTA.md",
+    "05 Archivo/Plantillas/Plantilla PROYECTO.md",
+    "03 MOC/Ejemplo de MOC.md"
   ]
 }

@@ -23,7 +23,7 @@ Optamos por utilizar [Obsidian.md](https://obsidian.md/), ya que su versatilidad
 ### Entorno PKM Base en Obsidian
 La estructura de este entorno base, pretende una aproximación a 2 métodos:
 - Zettelkasten.
-- GTD / BuJo.
+- BuJo / GTD.
 
 ### Estructura de carpetas y archivos
 - En el siguiente enlace: [Info PKM Base](Info%20PKM%20Base.md), encontrará información detallada de la estructura de archivos/ficheros y flujo de trabajo de este entorno base de PKM.
@@ -36,4 +36,5 @@ La estructura de este entorno base, pretende una aproximación a 2 métodos:
 ### Elaboración
 - [Richard Mújica Angulo](https://bio.link/richardmujica), antropólogo UMSA, cofundador de [PachaKamani](https://pachakamani.com/).
 - Versión inicial: 2022-04-20.
-- Actualizaciones: 2022-06-23 | 2022-10-14.
+- Mantenimiento: 2024/06/08
+- Actualizaciones: 2022-10-14.
