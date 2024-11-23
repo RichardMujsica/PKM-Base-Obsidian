@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "00 Dashboard PKM",
-      "path": "00 Dashboard PKM.md"
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "Info PKM Base",
       "path": "Info PKM Base.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "00 Dashboard PKM",
+      "path": "00 Dashboard PKM.md"
     },
     {
       "basename": "Plantilla REFERENCIA",
@@ -58,6 +58,8 @@
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "omitBookmarks": false,
   "maxLength": null,
   "openType": "tab"
 }
