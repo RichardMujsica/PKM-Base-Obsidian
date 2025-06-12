@@ -1,6 +1,6 @@
 # <% tp.file.title %>
 <% tp.file.creation_date() %>
-#temporal #permanente
+#temporal #idea
 
 ### _<% tp.file.title %>_ en mis palabras:
 - 

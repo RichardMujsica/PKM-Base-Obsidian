@@ -320,7 +320,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
+                    "file": "00 Dashboard PKM.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -361,7 +361,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
+                    "file": "00 Dashboard PKM.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -389,7 +389,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "00 LIBRETA/0 Mapa de Proyectos. Kanban.md"
+                    "file": "00 Dashboard PKM.md"
                   }
                 }
               }
@@ -524,7 +524,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Info PKM Base.md",
+                    "file": "00 Dashboard PKM.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -565,7 +565,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Info PKM Base.md",
+                    "file": "00 Dashboard PKM.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -593,7 +593,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Info PKM Base.md"
+                    "file": "00 Dashboard PKM.md"
                   }
                 }
               }

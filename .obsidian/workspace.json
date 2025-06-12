@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Info PKM Base.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Info PKM Base"
             }
           },
           {
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pasted image 20220513045710.png\"",
+                "query": "tag:#permanente",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,7 @@
             }
           },
           {
-            "id": "cf2ba96408fa666f",
+            "id": "04f1662d3e37a419",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -127,6 +127,7 @@
       {
         "id": "983dfe6f530d7a13",
         "type": "tabs",
+        "dimension": 67.92079207920793,
         "children": [
           {
             "id": "0bf47665fa112da2",
@@ -134,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "Info PKM Base.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,19 +158,36 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792588,
+                  "scale": 0.7132754626224422,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Gráfico de README"
+              "title": "Gráfico de Info PKM Base"
+            }
+          },
+          {
+            "id": "a98d2c74c886ab22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Info PKM Base.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Info PKM Base"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "439d60273c233d64",
         "type": "tabs",
+        "dimension": 32.07920792079208,
         "children": [
           {
             "id": "c828397a55b856b2",
@@ -177,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Info PKM Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes de Info PKM Base"
             }
           },
           {
@@ -197,25 +215,16 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
             }
-          },
-          {
-            "id": "a98d2c74c886ab22",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de README"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,20 +245,21 @@
   },
   "active": "f254f1b7a3076b79",
   "lastOpenFiles": [
-    "README.md",
+    "05 Archivo/Plantillas/Reglas de Markdown.md",
     "Info PKM Base.md",
+    "README.md",
+    "05 Archivo/Plantillas/Plantilla NOTA.md",
+    "01 IDEAS/Ejemplo Idea 1.md",
+    "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
+    "00 LIBRETA/PROYECTOS/Proyecto-01.md",
+    "00 LIBRETA/INBOX/Tarea01.md",
     "00 Dashboard PKM.md",
     "05 Archivo/Plantillas/Plantilla REFERENCIA.md",
-    "00 LIBRETA/PROYECTOS/Proyecto-01.md",
-    "00 LIBRETA/0 Mapa de Proyectos. Kanban.md",
-    "01 IDEAS/Ejemplo Idea 1.md",
+    "05 Archivo/Plantillas/Plantilla PROYECTO.md",
+    "05 Archivo/Plantillas/Plantilla MOC.md",
     "02 REFERENCIAS/Ejemplo de Referencia 1.md",
     "05 Archivo/Plantillas/pachakamani.jpg",
-    "00 LIBRETA/INBOX/Tarea01.md",
     "05 Archivo/Plantillas/PKM-kamani.JPG",
-    "05 Archivo/Plantillas/Plantilla MOC.md",
-    "05 Archivo/Plantillas/Plantilla NOTA.md",
-    "05 Archivo/Plantillas/Plantilla PROYECTO.md",
     "03 MOC/Ejemplo de MOC.md"
   ]
 }

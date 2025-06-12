@@ -1,5 +1,6 @@
 # PKM-Base con Obsidian
-Entorno digital para la construcción de un PKM en Obsidian 1.0. Orientado a su aplicación como parte de los cursos de formación en gestión del conocimiento personal.
+
+Entorno digital para la construcción de un PKM en Obsidian. Orientado a su aplicación como parte de los cursos de formación en gestión del conocimiento personal.
 
 ![](05%20Archivo/Plantillas/pachakamani.jpg)
 
@@ -8,6 +9,7 @@ Entorno digital para la construcción de un PKM en Obsidian 1.0. Orientado a su 
 ## Entorno e instrumentos básicos orientados a la aplicación del PKM en Obsidian
 
 ## Presentación
+
 Los procesos de formación e investigación académica han presentado varios matices en la última década. Se reconoce que su ejercicio no está desprendido de otros ámbitos laborales y de aprendizaje constante y personal. Además, día con día estamos sumergidos en un proceso de "infoxicación" que reduce la posibilidad de aprovechamiento, análisis y producción de ideas y conocimiento.
 
 Asimismo, también se están dando a conocer otras maneras de gestión de la información que, articuladas con herramientas digitales, se plantean como alternativas que favorecen estos procesos, entendidos como constantes flujos de aprendizaje y generación de conocimientos que no separan la teoría de la práctica.
@@ -23,7 +25,7 @@ Optamos por utilizar [Obsidian.md](https://obsidian.md/), ya que su versatilidad
 ### Entorno PKM Base en Obsidian
 La estructura de este entorno base, pretende una aproximación a 2 métodos:
 - Zettelkasten.
-- BuJo / GTD.
+- BuJo / GTD / ARC.
 
 ### Estructura de carpetas y archivos
 - En el siguiente enlace: [Info PKM Base](Info%20PKM%20Base.md), encontrará información detallada de la estructura de archivos/ficheros y flujo de trabajo de este entorno base de PKM.
@@ -36,5 +38,5 @@ La estructura de este entorno base, pretende una aproximación a 2 métodos:
 ### Elaboración
 - [Richard Mújica Angulo](https://bio.link/richardmujica), antropólogo UMSA, cofundador de [PachaKamani](https://pachakamani.com/).
 - Versión inicial: 2022-04-20.
-- Mantenimiento: 2024/06/08
-- Actualizaciones: 2022-10-14.
+- Mantenimiento: 2025/06/08
+- Actualizaciones: 2024-10-14.

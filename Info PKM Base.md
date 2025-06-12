@@ -14,13 +14,12 @@ Se inició con una base simplificada (versión v01-2022-04), dando énfasis a  Z
 
 A partir de lo mencionado, la estructura mínima (base) de los archivos se agrupa en dos:
 1. **Para el Método Zettelkasten**
-	1. Carpeta "01 IDEAS": Notas de ideas (permanentes-atómicas).
-	2. Carpeta "02 REFERENCIAS": Notas Bibliográficas y Resumen.
-	3. Carpeta "00 Libreta": Notas tipo índice o mapa de contenido Operacional. 
+	1. Carpeta "01 IDEAS": Notas de pensamientos, planteamientos, argumentos, ideas, etc. (atómicas).
+	2. Carpeta "02 REFERENCIAS": Notas Bibliográficas y de Resumen.
 2. **Ingreso de información y organización de proyectos:** Carpeta "00 LIBRETA"
 	1. Subcarpeta _INBOX_: Captura de notas iniciales o de tareas. Espacio de entrada general para toda la Bóveda. Luego de la revisión o aclarado de estas, se derivan a la sección correspondiente.
-	2. Subcarpeta _Proyectos_: Esta es la sección de _colecciones_ de notas referidas a proyectos (resultado buscado). Asimismo, este espacio tiene la posibilidad de articular y/o generar nuevas notas de idea (Zettel) o solo referencia en el proceso de trabajo cotidiano.
-	3. Carpeta _"05 Archivo"_: Sección para el _incubado_ de notas o colecciones producidas en los proyectos (paso previo a su eliminación o extracción de la bóveda). O tambien puede utilizarse como fichero de almacenamiento de otros "Recursos" (por ejemplo las plantillas de este sistema). 
+	2. Subcarpeta _PROYECTOS_: Esta es la sección de _colecciones_ de notas referidas a proyectos (resultado buscado). Asimismo, este espacio tiene la posibilidad de articular y/o generar nuevas notas de idea (Zettel) o solo referencia en el proceso de trabajo cotidiano.
+	3. Carpeta _"05 Archivo"_: Sección para el _incubado_ de notas o colecciones producidas en los proyectos (paso previo a su eliminación o extracción de la bóveda). O también puede utilizarse como fichero de almacenamiento de otros "Recursos" (por ejemplo las plantillas de este sistema). 
 
 ### 2. Materiales y procedimientos
 
@@ -32,7 +31,7 @@ Adicionalmente, añadimos el uso de **plantillas** orientadas a las notas base d
 
 #### Etiquetas
 
-Sugerimos algunas _etiquetas_ para agrupar las notas del Zettelkasten, las cuales ya están incorporadas en las plantillas: _permanente_, _temporal_, _moc_, y _referencia_.
+Sugerimos algunas _etiquetas_ para agrupar las notas del Zettelkasten, las cuales ya están incorporadas en las plantillas: _idea_, _temporal_, _moc_, y _referencia_.
 
 #### Flujo de trabajo
 
@@ -48,13 +47,13 @@ Con ayuda de algunos plugins ya instalados y mediante el uso de "atajos de tecla
 #### Plugins preinstalados
 
 Esta bóveda ya incluye algunos plugins que consideramos ayudan en el proceso inicial (algunos son "externos", por lo cual deberá desactivar el "modo seguro"). 
-5. QuickAdd (para organización de notas)
-7. Templater (para uso de plantillas)
-6. Recent Files (visualizar documentos recientes)
-3. LanguageTool Integration (corrección)
-1. Dataview (base de tados y reportes)
-2. Kanban (organización de proyectos)
-4. Mind Map (mapas mentales)
+1. QuickAdd (para organización automática de notas)
+2. Templater (para uso de plantillas)
+3. Recent Files (visualizar documentos recientes)
+4. LanguageTool Integration (corrección texto)
+5. Dataview (base de datos y reportes)
+6. Kanban (organización de proyectos)
+7. Mind Map (mapas mentales)
 
 ### 3. Consideraciones a futuro
 
@@ -64,19 +63,23 @@ A futuro, consideramos incorporar en esta bóveda (o implementar otra) que inclu
 2. Desarrollo de un diario o bitácora. Que implica el uso de anotaciones constantes y organización de tareas.
 3. Análisis de datos. Incorporar procesos más ágiles de relación y extracción de notas, utilización de gráficos y administración de etiquetas. 
 
+Otros **plugins recomendados** (no instalados):
+- Emoji Toolbar (buscador para insertar emojis en las notas)
+- Enhancing Export (para exportar documento a .docx .pdf .html, etc. Antes se dene instalar PANDOC)
+- Excalidraw (editar gráficos y diagramas)
+- Excel (hojas de cálculo básicas)
+- Footnote Shortcut (inserta pies de página)
+- Longform (proyectos de redacción de textos largos)
+- Text to speech (lector de notas)
+- Advanced Slides (diapositivas o presentaciones PPT)
+- Zotero integration (conexión con Zotero)
+
 ---
 
-### Contenido del Curso
-
-La versión inicial de esta bóveda fue realizada como instrumento didáctico del Curso de PKM. Este fue el contenido:
-- **Sesión 1. Criterios y métodos de la Gestión del Conocimiento Personal (PKM)**
-- **Sesión 2. Articulación del proceso de investigación con los métodos del PKM.**
-- **Sesión 3. Herramientas digitales para la implementación del PKM en la investigación.**
-
-[Más información del curso PKM](https://pachakamani.com/blog/curso-gestion-conocimiento-personal-pkm-investigadores-sociales-2022/)
-
 ### Elaboración
-- [Richard Mújica Angulo](https://bio.link/richardmujica), antropólogo UMSA, cofundador de [PachaKamani](https://pachakamani.com/).
+- [Richard Mújica Angulo](https://bio.link/richardmujica)
+- Antropólogo UMSA, cofundador de [PachaKamani](https://pachakamani.com/).
+- Jardín Digital: https://procesandoideas.kamani.pro/
 - La Paz, Bolivia.
 
 ---
@@ -85,8 +88,7 @@ La versión inicial de esta bóveda fue realizada como instrumento didáctico de
 
 - Sitio web Obsidian: https://obsidian.md/
 - "Zettelkasten Español" - https://telegra.ph/Zettelkasten-Espa%C3%B1ol-05-17
-- "Gestión del conocimiento Personal" - https://pkm.es/
 - Grupo Telegram en Obsidian Español: https://t.me/ObsidianEs
 - Grupo Telegram de PKM: https://t.me/PKM_es
 - Grupo Telegram de Zettelkasten: https://t.me/zettelkasten_es
-- Grupo LinkedIn de Obsidian y PKM (nuevo): https://www.linkedin.com/groups/12708607/
+- Grupo LinkedIn de Obsidian y PKM: https://www.linkedin.com/groups/12708607/

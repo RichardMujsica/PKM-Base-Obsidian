@@ -1,6 +1,6 @@
 ## Ejemplo Idea 1
 2022-04-23 - 12:05
-#permanente
+#idea 
 
 ### Definición de _Ejemplo Idea 1_
 Es 
